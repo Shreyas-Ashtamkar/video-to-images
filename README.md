@@ -10,6 +10,7 @@ Simply this can be used in 2 ways
     `python command_line.py (viedo_file) (output_file)`
     <br>
     example
+    <br>
     `python command_line.py -r demo`
 
 
